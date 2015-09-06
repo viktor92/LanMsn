@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_color">#e7e3e4</color>
+    <color name="layout_border_color">#FF111111</color>
+    <color name="activity_login_background">#D8F2FC</color>
+    <color name="login_button_color">#00A2EC</color>
+</resources>
